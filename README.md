@@ -2,6 +2,9 @@
 <a href='https://www.linkedin.com/in/filmptz/'><img align='left' alt="linkedin" src="https://raw.githubusercontent.com/rahul-jha98/rahul-jha98/561d474902b59c7429ec22bb73e225696c27b202/assets/linkedin.svg" height='18px'/></a>
 <a href='https://filmptz.medium.com/'><img alt="medium" src="https://raw.githubusercontent.com/rahul-jha98/rahul-jha98/561d474902b59c7429ec22bb73e225696c27b202/assets/medium.svg" height='18px'/></a>
 
+<a href="https://spotify.jvillegasd.duckdns.org/?opened">
+  <img src="https://spotify.jvillegasd.duckdns.org" width="341" height="571" alt="Now Playing">
+</a>
 <br/>
 <br/>
 
