@@ -1,4 +1,4 @@
-## Hey 👋, I'm Film Parichaya!
+## Hey 👋, I'm Film Parichaya! 👨‍💻
 
 <!--
 ### 🧐 More About Me:
