@@ -9,7 +9,7 @@
 <!-- - 💬 &nbsp; Ask me about anything tech related, I am happy to help; -->
 - &nbsp; Feel free to ping me on [LinkedIn](https://www.linkedin.com/in/filmptz/) | parichaya35@gmail.com
 <!-- - 📝 &nbsp; Checkout my [resume](https://drive.google.com/file/d/1ZpR5pVBTnl_Qybq7GE3MGy1SB1JehVSE/view?usp=sharing) -->
--  &nbsp; When I am free, I play guitar, read about psychology article or book as well as write blog. Checkout my [Medium](https://filmptz.medium.com/)
+-  &nbsp; Checkout my [Medium](https://filmptz.medium.com/)
 <br>
 <hr>
 
