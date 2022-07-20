@@ -15,8 +15,8 @@
 
 
 ### 🔨 Languages and Tools:
-<a href="https://go.dev/" target="_blank"><img align="left" alt="Go" height ="42px" src="https://raw.githubusercontent.com/rahul-jha98/github_readme_icons/main/language_and_tools/square/go/go.svg"></a>
 <a href="https://docs.soliditylang.org/en/v0.8.10/" target="_blank"><img align="left" alt="Solidity" height ="42px" src="https://i.ibb.co/rtQtXmT/file-type-light-solidity-icon-130436.png"></a>
+<a href="https://go.dev/" target="_blank"><img align="left" alt="Go" height ="42px" src="https://raw.githubusercontent.com/rahul-jha98/github_readme_icons/main/language_and_tools/square/go/go.svg"></a>
 <a href="https://nodejs.org" target="_blank"><img align="left" alt="Node.js" height ="42px" src="https://raw.githubusercontent.com/rahul-jha98/github_readme_icons/main/language_and_tools/square/node/node.svg"></a>
 <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank"> <img align="left" alt="JavaScript" height ="42px"  src="https://raw.githubusercontent.com/rahul-jha98/github_readme_icons/main/language_and_tools/square/javascript/javascript.svg"> </a>
 <a href="https://www.java.com" target="_blank"><img align="left" alt="Java" height ="42px" src="https://raw.githubusercontent.com/rahul-jha98/github_readme_icons/main/language_and_tools/square/java/java.svg"></a>
